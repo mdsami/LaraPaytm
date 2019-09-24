@@ -18,7 +18,7 @@ Laravel Paytm Wallet open-sourced software licensed under the [MIT license](http
 ## Getting Started
 To get started add the following package to your `composer.json` file using this command.
 
-    composer require mdsami/LaraPaytm
+    composer require mdsami/larapaytm
 
 ## Configuring
 **Note: For Laravel 5.5 and above auto-discovery takes care of below configuration.**
