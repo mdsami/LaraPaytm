@@ -1,5 +1,5 @@
 {
-    "name": "mdsami/lara-paytm",
+    "name": "mdsami/LaraPaytm",
     "description": "Paytm Integration with Laravel",
     "type": "project",
     "require": {
