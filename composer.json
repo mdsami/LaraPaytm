@@ -14,8 +14,8 @@
             "email": "mdsami.diu@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
-    "prefer-stable": true
+    "minimum-stability": "dev",
+    "prefer-stable": true,
 
     "autoload": {
         "psr-4": {

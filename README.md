@@ -31,12 +31,12 @@ When composer installs Laravel Paytm Wallet library successfully, register the `
     MdSami\LaraPaytm\LaraPaytmServiceProvider::class,
 ],
 ```
-Also, add the `PaytmWallet` facade to the `aliases` array in your `app` configuration file:
+Also, add the `LaraPaytm` facade to the `aliases` array in your `app` configuration file:
 
 ```php
 'aliases' => [
     // Other aliases
-    'PaytmWallet' => MdSami\LaraPaytm\Facades\PaytmWallet::class,
+    'LaraPaytm' => MdSami\LaraPaytm\Facades\LaraPaytm::class,
 ],
 ```
 #### Add the paytm credentials to the `.env` file
