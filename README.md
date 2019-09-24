@@ -1,7 +1,7 @@
 # LaraPaytm
 Paytm Integration with Laravel
 
-[![Latest Stable Version](https://poser.pugx.org/mdsami/larapaytm](https://packagist.org/packages/mdsami/LaraPaytm)
+[![Latest Stable Version](https://poser.pugx.org/mdsami/larapaytm](https://packagist.org/packages/mdsami/larapaytm)
 [![Total Downloads](https://poser.pugx.org/mdsami/larapaytm/downloads)](https://packagist.org/packages/mdsami/larapaytm)
 [![License](https://poser.pugx.org/mdsami/larapaytm/license)](https://packagist.org/packages/mdsami/larapaytm)
 
