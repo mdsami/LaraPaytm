@@ -1,0 +1,32 @@
+{
+    "name": "mdsami/lara-paytm",
+    "description": "Paytm Integration with Laravel",
+    "type": "project",
+    "require": {
+        "php": "7.1.3",
+        "illuminate/support": "5.6",
+        "illuminate/contracts": "5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MD SAMI",
+            "email": "mdsami.diu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+    "prefer-stable": true
+
+    "autoload": {
+        "psr-4": {
+            "Mdsami\\LaraPaytm\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mdsami\\LaraPaytm\\LaraPaytmServiceProvider"
+            ]
+        }
+    }
+}
