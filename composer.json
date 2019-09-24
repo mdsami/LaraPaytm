@@ -19,13 +19,13 @@
 
     "autoload": {
         "psr-4": {
-            "Mdsami\\LaraPaytm\\": "src/"
+            "MdSami\\LaraPaytm\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Mdsami\\LaraPaytm\\LaraPaytmServiceProvider"
+                "MdSami\\LaraPaytm\\LaraPaytmServiceProvider"
             ]
         }
     }
